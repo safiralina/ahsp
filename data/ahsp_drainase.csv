@@ -1,0 +1,73 @@
+kategori,kode,uraian,satuan,komponen,jenis_komponen,satuan_komponen,koefisien
+drainase,DR-01,Galian tanah saluran,m3,Pekerja,upah,OH,0.210
+drainase,DR-01,Galian tanah saluran,m3,Mandor,upah,OH,0.007
+drainase,DR-02,Galian tanah biasa,m3,Pekerja,upah,OH,0.135
+drainase,DR-02,Galian tanah biasa,m3,Mandor,upah,OH,0.0045
+drainase,DR-03,Urugan tanah kembali,m3,Pekerja,upah,OH,0.100
+drainase,DR-03,Urugan tanah kembali,m3,Mandor,upah,OH,0.0033
+drainase,DR-04,Urugan pasir bawah pondasi t=10cm,m3,Pasir urug,bahan,m3,1.100
+drainase,DR-04,Urugan pasir bawah pondasi t=10cm,m3,Pekerja,upah,OH,0.015
+drainase,DR-04,Urugan pasir bawah pondasi t=10cm,m3,Mandor,upah,OH,0.0005
+drainase,DR-04,Urugan pasir bawah pondasi t=10cm,m3,Vibrator,alat,unit,0.010
+drainase,DR-05,Pasangan pondasi batu kali 1:5,m3,Batu belah,bahan,m3,1.200
+drainase,DR-05,Pasangan pondasi batu kali 1:5,m3,Pasir pasang,bahan,m3,0.450
+drainase,DR-05,Pasangan pondasi batu kali 1:5,m3,Semen,bahan,kg,113.200
+drainase,DR-05,Pasangan pondasi batu kali 1:5,m3,Pekerja,upah,OH,1.500
+drainase,DR-05,Pasangan pondasi batu kali 1:5,m3,Kepala tukang,upah,OH,0.150
+drainase,DR-05,Pasangan pondasi batu kali 1:5,m3,Molen beton,alat,unit,0.174
+drainase,DR-06,Cor beton K-225 campuran lapangan,m3,Semen,bahan,kg,394.000
+drainase,DR-06,Cor beton K-225 campuran lapangan,m3,Pasir beton,bahan,m3,0.543
+drainase,DR-06,Cor beton K-225 campuran lapangan,m3,Kerikil (split),bahan,m3,0.770
+drainase,DR-06,Cor beton K-225 campuran lapangan,m3,Pekerja,upah,OH,1.000
+drainase,DR-06,Cor beton K-225 campuran lapangan,m3,Tukang batu,upah,OH,0.250
+drainase,DR-06,Cor beton K-225 campuran lapangan,m3,Kepala tukang,upah,OH,0.030
+drainase,DR-06,Cor beton K-225 campuran lapangan,m3,Mandor,upah,OH,0.010
+drainase,DR-06,Cor beton K-225 campuran lapangan,m3,Molen beton,alat,unit,0.100
+drainase,DR-06,Cor beton K-225 campuran lapangan,m3,Vibrator,alat,unit,0.100
+drainase,DR-07,Cor beton K-250 saluran drainase,m3,Semen,bahan,kg,435.000
+drainase,DR-07,Cor beton K-250 saluran drainase,m3,Pasir beton,bahan,m3,0.545
+drainase,DR-07,Cor beton K-250 saluran drainase,m3,Kerikil (split),bahan,m3,0.755
+drainase,DR-07,Cor beton K-250 saluran drainase,m3,Pekerja,upah,OH,1.000
+drainase,DR-07,Cor beton K-250 saluran drainase,m3,Tukang batu,upah,OH,0.250
+drainase,DR-07,Cor beton K-250 saluran drainase,m3,Kepala tukang,upah,OH,0.030
+drainase,DR-07,Cor beton K-250 saluran drainase,m3,Mandor,upah,OH,0.010
+drainase,DR-07,Cor beton K-250 saluran drainase,m3,Molen beton,alat,unit,0.100
+drainase,DR-07,Cor beton K-250 saluran drainase,m3,Vibrator,alat,unit,0.100
+drainase,DR-08,Pembesian besi beton tulangan,kg,Besi beton ulir,bahan,kg,1.020
+drainase,DR-08,Pembesian besi beton tulangan,kg,Kawat bendrat,bahan,kg,0.016
+drainase,DR-08,Pembesian besi beton tulangan,kg,Pekerja,upah,OH,0.012
+drainase,DR-08,Pembesian besi beton tulangan,kg,Tukang besi,upah,OH,0.008
+drainase,DR-08,Pembesian besi beton tulangan,kg,Mesin potur,alat,unit,0.004
+drainase,DR-09,Bekisting beton saluran,m2,Triplek 4mm,bahan,lbr,0.361
+drainase,DR-09,Bekisting beton saluran,m2,Kayu balok 5/7,bahan,btg,0.032
+drainase,DR-09,Bekisting beton saluran,m2,Kayu papan 2/20,bahan,btg,0.066
+drainase,DR-09,Bekisting beton saluran,m2,Paku,bahan,kg,0.050
+drainase,DR-09,Bekisting beton saluran,m2,Pekerja,upah,OH,0.175
+drainase,DR-09,Bekisting beton saluran,m2,Tukang kayu,upah,OH,0.125
+drainase,DR-09,Bekisting beton saluran,m2,Kepala tukang,upah,OH,0.013
+drainase,DR-09,Bekisting beton saluran,m2,Mandor,upah,OH,0.004
+drainase,DR-10,Plesteran dinding saluran 1:4 t=15mm,m2,Semen,bahan,kg,6.792
+drainase,DR-10,Plesteran dinding saluran 1:4 t=15mm,m2,Pasir pasang,bahan,m3,0.021
+drainase,DR-10,Plesteran dinding saluran 1:4 t=15mm,m2,Pekerja,upah,OH,0.140
+drainase,DR-10,Plesteran dinding saluran 1:4 t=15mm,m2,Tukang plester,upah,OH,0.070
+drainase,DR-10,Plesteran dinding saluran 1:4 t=15mm,m2,Kepala tukang,upah,OH,0.007
+drainase,DR-10,Plesteran dinding saluran 1:4 t=15mm,m2,Mandor,upah,OH,0.002
+drainase,DR-11,Acian dinding saluran,m2,Semen,bahan,kg,3.250
+drainase,DR-11,Acian dinding saluran,m2,Pekerja,upah,OH,0.200
+drainase,DR-11,Acian dinding saluran,m2,Tukang plester,upah,OH,0.100
+drainase,DR-12,Pasang U-Ditch precast 60x60,m,U-Ditch precast 60x60,bahan,bh,1.000
+drainase,DR-12,Pasang U-Ditch precast 60x60,m,Pasir urug,bahan,m3,0.055
+drainase,DR-12,Pasang U-Ditch precast 60x60,m,Pekerja,upah,OH,0.250
+drainase,DR-12,Pasang U-Ditch precast 60x60,m,Tukang batu,upah,OH,0.050
+drainase,DR-12,Pasang U-Ditch precast 60x60,m,Mandor,upah,OH,0.008
+drainase,DR-12,Pasang U-Ditch precast 60x60,m,Excavator,alat,unit,0.008
+drainase,DR-12,Pasang U-Ditch precast 60x60,m,Mobil angkutan,alat,unit,0.010
+drainase,DR-13,Pasang pipa gorong-gorong beton RCP 600mm,m,Pipa beton RCP 600mm,bahan,bh,1.020
+drainase,DR-13,Pasang pipa gorong-gorong beton RCP 600mm,m,Pasir urug,bahan,m3,0.120
+drainase,DR-13,Pasang pipa gorong-gorong beton RCP 600mm,m,Pekerja,upah,OH,0.150
+drainase,DR-13,Pasang pipa gorong-gorong beton RCP 600mm,m,Tukang batu,upah,OH,0.050
+drainase,DR-13,Pasang pipa gorong-gorong beton RCP 600mm,m,Mandor,upah,OH,0.008
+drainase,DR-13,Pasang pipa gorong-gorong beton RCP 600mm,m,Excavator,alat,unit,0.010
+drainase,DR-13,Pasang pipa gorong-gorong beton RCP 600mm,m,Mobil angkutan,alat,unit,0.010
+drainase,DR-14,Pemadatan tanah urugan t=20cm,m3,Pekerja,upah,OH,0.015
+drainase,DR-14,Pemadatan tanah urugan t=20cm,m3,Vibrator,alat,unit,0.010

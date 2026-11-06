@@ -1,0 +1,27 @@
+jenis,nama,satuan,harga
+upah,Mandor,OH,160000
+upah,Kepala tukang,OH,150000
+upah,Tukang batu,OH,140000
+upah,Tukang besi,OH,140000
+upah,Tukang kayu,OH,140000
+upah,Tukang plester,OH,140000
+upah,Pekerja,OH,120000
+bahan,Semen,kg,1450
+bahan,Pasir pasang,m3,220000
+bahan,Pasir urug,m3,150000
+bahan,Pasir beton,m3,250000
+bahan,Batu belah,m3,280000
+bahan,Kerikil (split),m3,300000
+bahan,Besi beton ulir,kg,14000
+bahan,Kawat bendrat,kg,25000
+bahan,Triplek 4mm,lbr,55000
+bahan,Kayu balok 5/7,btg,42000
+bahan,Kayu papan 2/20,btg,28000
+bahan,Paku,kg,20000
+bahan,U-Ditch precast 60x60,bh,280000
+bahan,Pipa beton RCP 600mm,bh,350000
+alat,Molen beton,unit,250000
+alat,Vibrator,unit,100000
+alat,Excavator,unit,1500000
+alat,Mobil angkutan,unit,800000
+alat,Mesin potur,unit,50000
